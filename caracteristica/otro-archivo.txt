@@ -1,1 +1,3 @@
 Solamente otro archivo creado en la rama caracteristica-1.
+
+Este archivo fue modificado localmente.
