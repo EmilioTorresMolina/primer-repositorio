@@ -1,4 +1,4 @@
 # primer-repositorio
 Comencemos con GitHub
 
-README.md fue editado manualmente.Este archivo fue modificado localmente.
+Esta línea fue modificada manualmente durante la resolución de conflictos.
