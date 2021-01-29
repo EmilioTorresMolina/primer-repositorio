@@ -3,3 +3,5 @@ Esta línea fue reemplazada en la rama caracteristica-2.
 Este archivo fue modificado localmente.
 
 Esta línea fue añadida en la rama característica-2.
+
+Otra modificación en la rama característica-2.
