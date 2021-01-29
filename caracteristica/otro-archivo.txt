@@ -1,3 +1,5 @@
-Solamente otro archivo creado en la rama caracteristica-1.
+Esta línea fue reemplazada en la rama caracteristica-2.
 
 Este archivo fue modificado localmente.
+
+Esta línea fue añadida en la rama característica-2.
