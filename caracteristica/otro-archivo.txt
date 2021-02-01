@@ -5,3 +5,5 @@ Este archivo fue modificado localmente.
 Esta línea fue añadida en la rama característica-2.
 
 Otra modificación en la rama característica-2.
+
+Edición en la rama característica-2.
